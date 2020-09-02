@@ -1,0 +1,53 @@
+
+.wrapper.data-v-561060d4 {
+  padding: 30rpx;
+}
+.wrapper .header-wrapper.data-v-561060d4 {
+  background-color: #3d7ef9;
+  border-radius: 40rpx;
+  color: #fff;
+  box-shadow: #d6d6d6 0 0 10rpx;
+  padding: 30rpx 60rpx;
+}
+.wrapper .header-title.data-v-561060d4 {
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper .wenzi.data-v-561060d4 {
+  font-size: 64rpx;
+  font-weight: 400;
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper .jianyi.data-v-561060d4 {
+  margin-top: 40rpx;
+  font-size: 24rpx;
+  font-weight: 400;
+}
+.wrapper .data-wrapper.data-v-561060d4 {
+  margin-top: 40rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper .data-wrapper .data.data-v-561060d4 {
+  background-color: #fff;
+  width: 300rpx;
+  height: 160rpx;
+  border-radius: 40rpx;
+  display: flex;
+  justify-content: space-around;
+  padding: 0 16rpx;
+  box-shadow: #d6d6d6 0 0 10rpx;
+}
+.wrapper .data-wrapper .data .data-logo.data-v-561060d4 {
+  height: 72rpx;
+  width: 72rpx;
+  margin-top: 30rpx;
+}
+.wrapper .data-wrapper .data .data-text.data-v-561060d4 {
+  margin-top: 30rpx;
+  color: #7f7f7f;
+}
+.wrapper .data-wrapper .data .data-text .data-value.data-v-561060d4 {
+  font-size: 52rpx;
+}

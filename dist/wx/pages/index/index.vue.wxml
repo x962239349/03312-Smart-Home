@@ -1,0 +1,58 @@
+<template name="12021bda">
+  <view class="_div data-v-561060d4 wrapper">
+    <view class="_div data-v-561060d4 header-wrapper">
+      <view class="_div data-v-561060d4 header-title"><label class="_span data-v-561060d4">空气质量-良好</label> <label class="_span data-v-561060d4">惠州市</label></view>
+      <view class="_div data-v-561060d4 wenzi"><label class="_span data-v-561060d4">55</label> <label class="_span data-v-561060d4">晴天</label></view>
+      <view class="_div data-v-561060d4 jianyi"><label class="_span data-v-561060d4">今日适合出门,但是记得涂防晒霜噢！</label></view>
+    </view>
+    <view class="_div data-v-561060d4 body-wrapper">
+      <view class="_div data-v-561060d4 body">
+        <view class="_div data-v-561060d4 data-wrapper">
+          <view class="_div data-v-561060d4 data">
+            <image class="_img data-v-561060d4 data-logo" src="/static/images/temp.png"></image>
+            <view class="_div data-v-561060d4 data-text">
+              <view class="_div data-v-561060d4 data-title">温度</view>
+              <view class="_div data-v-561060d4 data-value">26℃</view>
+            </view>
+          </view>
+          <view class="_div data-v-561060d4 data">
+            <image class="_img data-v-561060d4 data-logo" src="/static/images/shidu.png"></image>
+            <view class="_div data-v-561060d4 data-text">
+              <view class="_div data-v-561060d4 data-title">湿度</view>
+              <view class="_div data-v-561060d4 data-value">69%</view>
+            </view>
+          </view>
+        </view>
+        <view class="_div data-v-561060d4 data-wrapper">
+          <view class="_div data-v-561060d4 data">
+            <image class="_img data-v-561060d4 data-logo" src="/static/images/light.png"></image>
+            <view class="_div data-v-561060d4 data-text">
+              <view class="_div data-v-561060d4 data-title">光照度</view>
+              <view class="_div data-v-561060d4 data-value">1266Lx</view>
+            </view>
+          </view>
+          <view class="_div data-v-561060d4 data">
+            <image class="_img data-v-561060d4 data-logo" src="/static/images/led.png"></image>
+            <view class="_div data-v-561060d4 data-text">
+              <view class="_div data-v-561060d4 data-title">客厅灯</view>
+              <view class="_div data-v-561060d4 data-value">
+                <switch color="#3d7ef9" class="_switch data-v-561060d4" />
+              </view>
+            </view>
+          </view>
+        </view>
+        <view class="_div data-v-561060d4 data-wrapper">
+          <view class="_div data-v-561060d4 data">
+            <image class="_img data-v-561060d4 data-logo" src="/static/images/beep.png"></image>
+            <view class="_div data-v-561060d4 data-text">
+              <view class="_div data-v-561060d4 data-title">报警器</view>
+              <view class="_div data-v-561060d4 data-value">
+                <switch color="#3d7ef9" class="_switch data-v-561060d4" />
+              </view>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>
